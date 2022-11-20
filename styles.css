@@ -1,10 +1,10 @@
 article {
-    background-color: rgb(168, 161, 121)
+    background-color: rgb(168, 161, 121);
 }
 
 body {
     margin: 8px;
-    display: 'block';
+    display: "block";
     background-color: black;
 }
 
@@ -28,6 +28,16 @@ p {
     padding: 4px;
 }
 
+.flexContainer {
+    display: flex;
+    flex: row;
+    max-width: 90%;
+}
+
+.footerPics {
+    max-width: 50%;
+}
+
 .funParagraph {
     color: green;
 }
@@ -38,6 +48,7 @@ p {
 
 #mainHeading {
     color: red;
+    text-align: center;
 }
 
 #titleHead {

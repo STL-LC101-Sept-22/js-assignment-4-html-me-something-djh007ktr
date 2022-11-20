@@ -1,1 +1,51 @@
-/* Write your CSS here! */
+article {
+    background-color: rgb(168, 161, 121)
+}
+
+body {
+    margin: 8px;
+    display: 'block';
+    background-color: black;
+}
+
+h1 {
+    color: maroon;
+}
+
+h3 {
+    color: forestgreen;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin: 8px;
+    padding: 4px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#douglassDarty {
+    float: right;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#titleHead {
+    background-color: black;
+    text-align: center;
+    margin: auto;
+}
+
+#trumpsPlantation {
+    width: 50%;
+}
